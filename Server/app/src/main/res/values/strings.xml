@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Server</string>
+    <string name="startService">Start Service</string>
+    <string name="stopService">Stop Service</string>
+    <string name="bindService">Bind Service</string>
+    <string name="unBindService">UnBind Service</string>
+    <string name="clear">Clear</string>
+    <string name="getServiceMsg">Get Service Message</string>
+    <string name="innerCalls">Inner Service Calls</string>
+    <string name="externCalls">Extern Service Calls</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="get_list">Get list</string>
+    <string name="dump">Dump</string>
+</resources>
